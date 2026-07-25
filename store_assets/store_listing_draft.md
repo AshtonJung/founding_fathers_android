@@ -1,7 +1,7 @@
 # Play Store Listing Draft — Voices of the Founders
 
 ## App name (30 char max)
-Voices of the Founders
+Voices of the Founders: Quiz
 
 ## Short description (80 char max)
 Learn the Founding Fathers through timelines, quizzes, quotes, and more.
