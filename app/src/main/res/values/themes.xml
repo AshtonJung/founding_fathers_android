@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.FoundingFathers" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#12142B</item>
+        <item name="android:windowBackground">#12142B</item>
+        <item name="android:navigationBarColor">#12142B</item>
+    </style>
+</resources>
