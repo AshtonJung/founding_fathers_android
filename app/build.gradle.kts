@@ -13,11 +13,11 @@ val keystoreProperties = Properties().apply {
 }
 
 android {
-    namespace = "com.woojoo.foundingfathers"
+    namespace = "com.ashtonjung.foundingfathers"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.woojoo.foundingfathers"
+        applicationId = "com.ashtonjung.foundingfathers"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
