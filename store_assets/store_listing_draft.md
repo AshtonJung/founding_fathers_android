@@ -50,8 +50,7 @@ Education
 Everyone
 
 ## Privacy policy URL
-(To be filled in once PRIVACY_POLICY.md is hosted at a public URL — e.g. GitHub Pages or a simple static page.
-Play Console requires a live URL, not just a document.)
+https://ashtonjung.github.io/founding_fathers_android/PRIVACY_POLICY.html
 
 ## Screenshots
 See store_assets/screenshots/ — captured from the emulator (Home, Quiz, Timeline, Spin Wheel, Settings).
