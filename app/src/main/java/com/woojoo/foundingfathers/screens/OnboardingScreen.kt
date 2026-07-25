@@ -44,7 +44,7 @@ fun OnboardingScreen(onDone: () -> Unit) {
         )
         Spacer(modifier = Modifier.height(12.dp))
         Text(
-            "Explore the lives of five Founding Fathers through interactive timelines, quizzes, and quote challenges.",
+            "Explore the lives of seven Founding Fathers through interactive timelines, quizzes, and quote challenges.",
             color = AppColors.TextSecondary,
             fontSize = 15.sp,
             textAlign = TextAlign.Center
